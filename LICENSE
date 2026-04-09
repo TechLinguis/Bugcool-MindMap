@@ -1,0 +1,143 @@
+# MIT License
+
+**Copyright (c) 2024-2026 Bugcool MindMap**
+
+---
+
+## Permission Notice
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+---
+
+## Terms and Conditions
+
+### 1. Acceptance of Terms
+
+By using, copying, modifying, merging, publishing, distributing, sublicensing,
+or selling copies of this Software, you agree to be bound by the terms and
+conditions of this MIT License. If you do not agree with these terms, you are
+prohibited from using, copying, modifying, merging, publishing, distributing,
+sublicensing, or selling copies of the Software.
+
+### 2. Copyright Notice Requirement
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software. The copyright notice may be
+included in the form of a visible attribution statement, footer, or in the
+"About" / "Help" section of the software interface.
+
+### 3. Attribution Examples
+
+When distributing the Software or derivative works, please include one of
+the following attribution methods:
+
+```text
+This software includes work from Bugcool MindMap - MBTI 测试系统
+Copyright (c) 2024-2026 Bugcool MindMap
+Licensed under the MIT License
+https://github.com/TechLinguis/Bugcool-MindMap
+```
+
+Or simply:
+
+```text
+Based on Bugcool MindMap [https://github.com/TechLinguis/Bugcool-MindMap]
+Copyright (c) 2024-2026 Bugcool MindMap
+```
+
+### 4. Disclaimer of Warranty
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND**, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+REDISTRIBUTE THE SOFTWARE BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+### 5. Limitation of Liability
+
+In no event and under no legal theory, whether in tort (including negligence),
+contract, or otherwise, shall the Authors or Copyright Holders be liable to
+any other party for any direct, indirect, special, incidental, or consequential
+damages of any character arising as a result of this License or out of the use
+or inability to use the Software (including but not limited to damages for loss
+of goodwill, work stoppage, computer failure or malfunction, or any and all
+other commercial damages or losses).
+
+### 6. Trademark Notice
+
+"Bugcool MindMap" and the Bugcool MindMap logo are trademarks of the Copyright
+Holder. This License does not grant permission to use these trademarks in any
+way that suggests endorsement or affiliation without prior written permission.
+
+---
+
+## Third-Party Components
+
+This project may include or depend on third-party open source software
+components. Each such component is subject to its own applicable license terms:
+
+| Component | License | Purpose |
+|-----------|---------|---------|
+| Douyin Sans (抖音美好体) | [OFL 1.1](https://scripts.sil.org/OFL) | UI Font |
+| Bootstrap Icons | [MIT](https://github.com/twbs/icons/blob/main/LICENSE) | Icons |
+| Google Fonts | [OFL 1.1](https://scripts.sil.org/OFL) | Web Fonts |
+
+---
+
+## Additional Permissions
+
+### Commercial Use
+
+This license allows commercial use of the Software. You may use this software
+for commercial purposes, including integrating it into commercial products or
+services, provided you comply with the license terms.
+
+### Private Use
+
+This license explicitly allows private use of the Software. Individuals may
+use, modify, and distribute this software for personal or private purposes
+without any fees or royalties.
+
+### Modifications
+
+You are permitted to make modifications to the Software. Modified versions
+of the Software must be clearly marked as modified and should not misrepresent
+the origin of the Software.
+
+---
+
+## Questions?
+
+If you have questions about this license or the Software, please visit:
+
+- **Project Repository**: https://github.com/TechLinguis/Bugcool-MindMap
+- **License**: https://opensource.org/licenses/MIT
+
+---
+
+## Summary
+
+In plain language, this MIT License means:
+
+| You Can | You Must |
+|---------|----------|
+| ✅ Use this software for any purpose | 📋 Keep the copyright notice |
+| ✅ Modify the code | 📋 State any significant changes |
+| ✅ Distribute the software | 📋 Include this license |
+| ✅ Use commercially | ❌ Hold us liable for any issues |
+| ✅ Sublicense (add to your own license) | ❌ Use our trademarks without permission |
+| ✅ Use privately | ❌ Claim you wrote this software |
+
+---
+
+*This license was generated for Bugcool MindMap - MBTI 测试系统*
+*For the full MIT License text, visit: https://opensource.org/licenses/MIT*
