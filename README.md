@@ -83,6 +83,10 @@ mbti-php/
 
 ## 🛠️ 环境要求
 
+云服务器（推荐）：[莱卡云](https://www.lcayun.com/aff/OWGAYGEC)
+
+运维面板（推荐）：[宝塔面板](https://www.bt.cn/u/b7ZGJk)
+
 | 项目 | 要求 |
 |------|------|
 | PHP | 7.4+（推荐 8.0+） |
